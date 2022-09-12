@@ -1,0 +1,8 @@
+name: YAML Validator
+
+dependencies:
+  - python>=3.4
+  - yaml
+  - click
+  - bg-atlasapi
+  
